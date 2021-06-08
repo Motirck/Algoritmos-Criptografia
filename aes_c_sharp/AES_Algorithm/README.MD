@@ -1,0 +1,1 @@
+Código fonte disponível em: https://www.c-sharpcorner.com/article/aes-encryption-in-c-sharp/ (by Mahesh Chand)
