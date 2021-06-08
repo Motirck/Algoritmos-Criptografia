@@ -10,3 +10,4 @@ C:\002_ALGORITMOS_CRIPTOGRAFIA\Algoritmos-Criptografia\aes_c_sharp\AES_Algorithm
 C:\002_ALGORITMOS_CRIPTOGRAFIA\Algoritmos-Criptografia\aes_c_sharp\AES_Algorithm\AES_Algorithm\obj\Debug\netcoreapp3.1\AES_Algorithm.dll
 C:\002_ALGORITMOS_CRIPTOGRAFIA\Algoritmos-Criptografia\aes_c_sharp\AES_Algorithm\AES_Algorithm\obj\Debug\netcoreapp3.1\AES_Algorithm.pdb
 C:\002_ALGORITMOS_CRIPTOGRAFIA\Algoritmos-Criptografia\aes_c_sharp\AES_Algorithm\AES_Algorithm\obj\Debug\netcoreapp3.1\AES_Algorithm.genruntimeconfig.cache
+C:\002_ALGORITMOS_CRIPTOGRAFIA\Algoritmos-Criptografia\aes_c_sharp\AES_Algorithm\AES_Algorithm\obj\Debug\netcoreapp3.1\AES_Algorithm.csprojAssemblyReference.cache
